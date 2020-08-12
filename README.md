@@ -1,8 +1,48 @@
-<article class="markdown-body entry-content container-lg" itemprop="text">
-<h4 align="center"><a id="user-content---hey-im-gisele-" class="anchor" aria-hidden="true" href="#--hey-im-gisele-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-  Hey, I'm Gisele! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"><img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"></g-emoji>
-</h4>
-<p align="center">
-  ES6+ | TypeScript | ReactJS | Node.js | HTML | CSS | Git
+## Hi 👋 I am Gisele!
+
+I am a developer passionate about frontend and I am always looking to learn and improve my skills through reading, self-knowledge and technical courses. I love how every day is a challenge and working with great people that help me grow as a developer.
+
+- 👩‍💻 full stack developer at <a href="https://bridge.ufsc.br/" rel="nofollow">Laboratório Bridge</a>
+- 💜 geek, gamer, anime & dorama lover
+- 👩‍🎓 bachelor in Information Systems and taking a postgraduate course in Full Stack Web Development
+- 🚀 goal: be a full stack web developer specialized in front end with React
+
+<details open>
+<summary>🤝 <b>To connect with me<b></summary>
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gisabernardess/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gisabernardess)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gisabernardess/)
+
 </p>
-</article>
+
+</details>
+
+---
+
+<details open>
+  <summary> 😇 <b>My Github Stats</b>: </summary>
+
+  <br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gisabernardess&show_icons=true&theme=radical&line_height=27"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gisabernardess&hide=css,html,tex&theme=tokyonight">
+</p>
+
+</details>
+
+<details open>
+  <summary>💻 <b>My Tech Stack</b> :</summary>
+
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</details>
+
+<details>
+  <summary>🤖 <b>My programming stats(Click to expand)</b>: </summary>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
