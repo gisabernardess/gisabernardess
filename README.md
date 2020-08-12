@@ -9,14 +9,11 @@ I am a developer passionate about frontend and I am always looking to learn and 
 
 <details open>
 <summary>🤝 <b>To connect with me<b></summary>
-
-<p align = "center">
+<br/>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gisabernardess/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gisabernardess)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gisabernardess/)
-
-</p>
 
 </details>
 
@@ -24,20 +21,20 @@ I am a developer passionate about frontend and I am always looking to learn and 
 
 <details open>
   <summary> 😇 <b>My Github Stats</b>: </summary>
-
   <br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gisabernardess&show_icons=true&theme=radical&line_height=27"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gisabernardess&hide=css,html,tex&theme=tokyonight">
-</p>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gisabernardess&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=radical"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gisabernardess&layout=compact&theme=tokyonight">
+  </p>
 
 </details>
 
 <details open>
   <summary>💻 <b>My Tech Stack</b> :</summary>
-
+  <br>
+  <p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  </p>
 </details>
 
 <details>
