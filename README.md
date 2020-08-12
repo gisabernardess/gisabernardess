@@ -9,7 +9,6 @@ I am a developer passionate about frontend and I am always looking to learn and 
 
 <details open>
 <summary>🤝 <b>To connect with me<b></summary>
-<br/>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gisabernardess/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gisabernardess)
@@ -20,6 +19,11 @@ I am a developer passionate about frontend and I am always looking to learn and 
 ---
 
 <details open>
+  <summary>💻 <b>My Tech Stack</b> :</summary>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</details>
+
+<details open>
   <summary> 😇 <b>My Github Stats</b>: </summary>
   <br>
   <p align="center">
@@ -27,14 +31,6 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gisabernardess&layout=compact&theme=tokyonight">
   </p>
 
-</details>
-
-<details open>
-  <summary>💻 <b>My Tech Stack</b> :</summary>
-  <br>
-  <p>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  </p>
 </details>
 
 <details>
