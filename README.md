@@ -16,8 +16,6 @@ I am a developer passionate about frontend and I am always looking to learn and 
 
 </details>
 
----
-
 <details open>
   <summary>💻 <b>My Tech Stack</b> :</summary>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
