@@ -13,6 +13,8 @@ I am a developer passionate about frontend and I am always looking to learn and 
 - 👩‍🎓 bachelor in Information Systems and taking a postgraduate course in Full Stack Web Development
 - 🎯 goal: be a full stack web developer specialized in front end with React
 
+---
+
 <details open>
   <summary>🚀 <b>Skills</b>:</summary>
 
@@ -26,7 +28,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
+</details>
 
 <details open>
   <summary>📈 <b>Github stats</b>:</summary>
