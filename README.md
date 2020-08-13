@@ -13,10 +13,17 @@ I am a developer passionate about frontend and I am always looking to learn and 
 - 👩‍🎓 bachelor in Information Systems and taking a postgraduate course in Full Stack Web Development
 - 🚀 goal: be a full stack web developer specialized in front end with React
 
-<details open>
-  <summary>💻 <b>My Tech Stack</b> :</summary>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nodejs-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
 
 <details open>
   <summary> 😇 <b>My Github Stats</b>: </summary>
