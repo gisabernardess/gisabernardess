@@ -42,6 +42,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
 
 <details>
   <summary>🤖 <b>Programming stats</b> <em>(click to expand)</em>:</summary>
+  <br/>
 
   <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
