@@ -11,7 +11,10 @@ I am a developer passionate about frontend and I am always looking to learn and 
 - 👩‍💻 currently working as full stack developer at <a href="https://bridge.ufsc.br/" rel="nofollow">Laboratório Bridge</a>
 - 💜 geek, gamer, anime & dorama lover
 - 👩‍🎓 bachelor in Information Systems and taking a postgraduate course in Full Stack Web Development
-- 🚀 goal: be a full stack web developer specialized in front end with React
+- 🎯 goal: be a full stack web developer specialized in front end with React
+
+<details open>
+  <summary>🚀 <b>Skills</b>:</summary>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,7 +29,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
 ---
 
 <details open>
-  <summary> 😇 <b>My Github Stats</b>: </summary>
+  <summary>📈 <b>Github stats</b>:</summary>
   <br>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gisabernardess&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=radical"/>
@@ -36,7 +39,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
 </details>
 
 <details>
-  <summary>🤖 <b>My programming stats(Click to expand)</b>: </summary>
+  <summary>🤖 <b>Programming stats</b> <em>(click to expand)</em>:</summary>
 
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
