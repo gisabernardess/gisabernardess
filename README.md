@@ -1,9 +1,9 @@
 <h3>Hi 👋 I am Gisele!</h3>
 
-[<img align="right" width="23rem" src="./assets/rocketseat.png"/>](https://app.rocketseat.com.br/me/gisabernardess/)
-[<img align="right" width="23rem" src="./assets/instagram.png"/>](https://www.instagram.com/gisabernardess/)
-[<img align="right" width="23rem" src="./assets/twitter.png"/>](https://twitter.com/gisabernardess/)
-[<img align="right" width="23rem" src="./assets/linkedin.png"/>](https://www.linkedin.com/in/gisabernardess/)
+[<img align="right" width="23rem" src="./assets/rocketseat.png?raw=true"/>](https://app.rocketseat.com.br/me/gisabernardess/)
+[<img align="right" width="23rem" src="./assets/instagram.png?raw=true"/>](https://www.instagram.com/gisabernardess/)
+[<img align="right" width="23rem" src="./assets/twitter.png?raw=true"/>](https://twitter.com/gisabernardess/)
+[<img align="right" width="23rem" src="./assets/linkedin.png?raw=true"/>](https://www.linkedin.com/in/gisabernardess/)
 
 ---
 
