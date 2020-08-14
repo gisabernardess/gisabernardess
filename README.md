@@ -1,9 +1,9 @@
 <h3>Hi 👋 I am Gisele!</h3>
 
-[<img align="right" width="23rem" src="./assets/rocketseat.png?raw=true"/>](https://app.rocketseat.com.br/me/gisabernardess/)
-[<img align="right" width="23rem" src="./assets/instagram.png?raw=true"/>](https://www.instagram.com/gisabernardess/)
-[<img align="right" width="23rem" src="./assets/twitter.png?raw=true"/>](https://twitter.com/gisabernardess/)
-[<img align="right" width="23rem" src="./assets/linkedin.png?raw=true"/>](https://www.linkedin.com/in/gisabernardess/)
+[<img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/rocketseat.png?raw=true"/>](https://app.rocketseat.com.br/me/gisabernardess/)
+[<img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/instagram.png?raw=true"/>](https://www.instagram.com/gisabernardess/)
+[<img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/twitter.png?raw=true"/>](https://twitter.com/gisabernardess/)
+[<img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/linkedin.png?raw=true"/>](https://www.linkedin.com/in/gisabernardess/)
 
 ---
 
