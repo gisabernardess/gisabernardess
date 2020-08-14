@@ -1,8 +1,9 @@
 <h3>Hi 👋 I am Gisele!</h3>
 
-[<img align="right" width="23rem" src="https://image.flaticon.com/icons/svg/1384/1384063.svg"/>](https://www.instagram.com/gisabernardess/)
-[<img align="right" width="23rem" src="https://image.flaticon.com/icons/svg/1384/1384065.svg"/>](https://twitter.com/gisabernardess)
-[<img align="right" width="23rem" src="https://image.flaticon.com/icons/svg/174/174857.svg"/>](https://www.linkedin.com/in/gisabernardess/)
+[<img align="right" width="23rem" src="./assets/icons/rocketseat-white.png"/>](https://app.rocketseat.com.br/me/gisabernardess/)
+[<img align="right" width="23rem" src="./assets/icons/instagram.png" alt="Instagram: @gisabernardess"/>](https://www.instagram.com/gisabernardess/)
+[<img align="right" width="23rem" src="./assets/icons/twitter.png"/>](https://twitter.com/gisabernardess/)
+[<img align="right" width="23rem" src="./assets/icons/linkedin.png"/>](https://www.linkedin.com/in/gisabernardess/)
 
 ---
 
@@ -45,76 +46,75 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <br/>
 
   <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-121-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-99.4%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 348 Contributions in year 2020
- > 
-> 📦 Used 41.8 kB in GitHub's Storage 
- > 
+>
+> 📦 Used 41.8 kB in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 0 Owned Private Repository 
- > 
-**I'm an early 🐤** 
+>
+> 📜 29 Public Repositories
+>
+> 🔑 0 Owned Private Repository
+>
+> **I'm an early 🐤**
 
 ```text
-🌞 Morning    67 commits     █████░░░░░░░░░░░░░░░░░░░░   22.04% 
-🌆 Daytime    145 commits    ████████████░░░░░░░░░░░░░   47.7% 
-🌃 Evening    89 commits     ███████░░░░░░░░░░░░░░░░░░   29.28% 
+🌞 Morning    67 commits     █████░░░░░░░░░░░░░░░░░░░░   22.04%
+🌆 Daytime    145 commits    ████████████░░░░░░░░░░░░░   47.7%
+🌃 Evening    89 commits     ███████░░░░░░░░░░░░░░░░░░   29.28%
 🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
 
 ```
-📅 **I'm Most Productive on Wednesdays** 
+
+📅 **I'm Most Productive on Wednesdays**
 
 ```text
-Monday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-Tuesday      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Wednesday    62 commits     █████░░░░░░░░░░░░░░░░░░░░   20.39% 
-Thursday     37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
-Friday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.54% 
-Saturday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
+Monday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16%
+Tuesday      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82%
+Wednesday    62 commits     █████░░░░░░░░░░░░░░░░░░░░   20.39%
+Thursday     37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.17%
+Friday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.54%
+Saturday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47%
 Sunday       50 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.45%
 
 ```
 
-
-📊 **This week I spent my time on** 
+📊 **This week I spent my time on**
 
 ```text
-💬 Languages: 
-Markdown                 26 mins             █████████████████████░░░░   84.9% 
+💬 Languages:
+Markdown                 26 mins             █████████████████████░░░░   84.9%
 YAML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.1%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  31 mins             █████████████████████████   100.0%
 
-💻 Operating Systems: 
+💻 Operating Systems:
 Linux                    31 mins             █████████████████████████   100.0%
 
 ```
 
-**I mostly code in JavaScript** 
+**I mostly code in JavaScript**
 
 ```text
-JavaScript               16 repos            ██████████░░░░░░░░░░░░░░░   43.24% 
-TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62% 
-Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
-TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+JavaScript               16 repos            ██████████░░░░░░░░░░░░░░░   43.24%
+TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62%
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.92%
+TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
 HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://github.com/gisabernardess/gisabernardess/blob/master/charts/bar_graph.png) 
-
+![Chart not found](https://github.com/gisabernardess/gisabernardess/blob/master/charts/bar_graph.png)
 
 <!--END_SECTION:waka-->
 </details>
