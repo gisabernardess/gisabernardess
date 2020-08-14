@@ -1,9 +1,9 @@
 <h3>Hi 👋 I am Gisele!</h3>
 
-[<img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/rocketseat.png?raw=true"/>](https://app.rocketseat.com.br/me/gisabernardess/)
-[<img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/instagram.png?raw=true"/>](https://www.instagram.com/gisabernardess/)
-[<img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/twitter.png?raw=true"/>](https://twitter.com/gisabernardess/)
-[<img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/linkedin.png?raw=true"/>](https://www.linkedin.com/in/gisabernardess/)
+<a href="https://app.rocketseat.com.br/me/gisabernardess/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/rocketseat.png?raw=true" alt="Rocketseat: @gisabernardess"/></a>
+<a href="https://www.instagram.com/gisabernardess/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/instagram.png?raw=true" alt="Instagram: @gisabernardess"/></a>
+<a href="https://twitter.com/gisabernardess/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/twitter.png?raw=true" alt="Twitter: @gisabernardess"/></a>
+<a href="https://www.linkedin.com/in/gisabernardess/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/linkedin.png?raw=true" alt="LinkedIn: @gisabernardess"/></a>
 
 ---
 
@@ -36,7 +36,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <br>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gisabernardess&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=radical"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gisabernardess&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisabernardess&layout=compact&theme=tokyonight">
   </p>
 
 </details>
