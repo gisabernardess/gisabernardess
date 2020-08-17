@@ -46,23 +46,23 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <br/>
 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-201-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-204-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-99.4%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99.4%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 357 Contributions in year 2020
+> 🏆 357 Contributions in the year 2020
  > 
-> 📦 Used 41.9 kB in GitHub's Storage 
+> 📦 41.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 29 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    67 commits     █████░░░░░░░░░░░░░░░░░░░░   21.61% 
@@ -71,7 +71,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
 🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
 
 ```
-📅 **I'm Most Productive on Wednesdays** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
@@ -85,26 +85,26 @@ Sunday       50 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-💬 Languages: 
+💬 Programming Languages: 
 Kotlin                   3 hrs 21 mins       ███████████░░░░░░░░░░░░░░   46.39% 
 Java                     1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   23.44% 
 TypeScript               1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   22.86% 
 Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
 YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
 
-🔥 Editors: 
+🔥 Code Editors: 
 IntelliJ                 5 hrs 3 mins        █████████████████░░░░░░░░   69.9% 
 VS Code                  2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   30.1%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Linux                    7 hrs 14 mins       █████████████████████████   100.0%
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               16 repos            ██████████░░░░░░░░░░░░░░░   43.24% 
