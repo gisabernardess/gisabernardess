@@ -46,21 +46,21 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <br/>
 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-244-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-258-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-988853%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 361 Contributions in the year 2020
+> 🏆 364 Contributions in the Year 2020
  > 
 > 📦 41.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public repositories
+> 📜 29 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -85,22 +85,22 @@ Sunday       50 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 6 mins       ██████████████░░░░░░░░░░░   56.29% 
-Kotlin                   5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.56% 
-Java                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
-Markdown                 40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
+TypeScript               18 hrs 38 mins      █████████████████░░░░░░░░   69.69% 
+Kotlin                   5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
+Java                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84% 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
 
-🔥 Code Editors: 
-VS Code                  12 hrs 11 mins      ███████████████░░░░░░░░░░   61.73% 
-IntelliJ                 7 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   38.27%
+🔥 Editors: 
+VS Code                  19 hrs 11 mins      ██████████████████░░░░░░░   71.75% 
+IntelliJ                 7 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.25%
 
 💻 Operating System: 
-Linux                    19 hrs 44 mins      █████████████████████████   100.0%
+Linux                    26 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
