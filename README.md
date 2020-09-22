@@ -46,13 +46,13 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <br/>
 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-998899%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 393 Contributions in the Year 2020
+> 🏆 395 Contributions in the Year 2020
  > 
 > 📦 48.9 kB Used in Github's Storage 
  > 
