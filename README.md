@@ -12,7 +12,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
 - 👩‍💻 currently working as full stack developer at <a href="https://bridge.ufsc.br/" rel="nofollow">Laboratório Bridge</a>
 - 💜 geek, gamer, anime & dorama lover
 - 👩‍🎓 bachelor in Information Systems and taking a postgraduate course in Full Stack Web Development
-- 🎯 goal: be a full stack web developer specialized in front end with React
+- 🎯 goal: be a full stack web developer focused in the frontend part
 
 ---
 
