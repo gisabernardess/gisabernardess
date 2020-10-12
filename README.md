@@ -48,19 +48,19 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 915 Contributions in the Year 2020
+> 🏆 922 Contributions in the Year 2020
  > 
-> 📦 49.1 kB Used in Github's Storage 
+> 📦 49.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 26 Public Repositories
+> 📜 27 Public Repositories
  > 
-> 🔑 1 Private Repository 
+> 🔑 0 Private Repository 
  > 
 **I'm an Early 🐤** 
 
