@@ -46,19 +46,19 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <br/>
 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,255 Contributions in the Year 2020
+> 🏆 1,261 Contributions in the Year 2020
  > 
-> 📦 44.6 kB Used in Github's Storage 
+> 📦 44.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories
+> 📜 20 Public Repositories
  > 
 > 🔑 3 Private Repositories 
 
@@ -89,19 +89,19 @@ Sunday       11 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               39 hrs 59 mins      █████████████████░░░░░░░░   67.99% 
-Markdown                 8 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
-JSON                     2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
-SCSS                     1 hr 56 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31% 
-Java                     1 hr 39 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81%
+TypeScript               35 hrs 27 mins      ████████████████░░░░░░░░░   64.18% 
+Markdown                 7 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67% 
+SCSS                     4 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
+JSON                     1 hr 44 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
+Java                     1 hr 39 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99%
 
 🔥 Editors: 
-VS Code                  53 hrs 45 mins      ██████████████████████░░░   91.4% 
-IntelliJ                 4 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.32% 
-Sublime Text             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+VS Code                  50 hrs 12 mins      ██████████████████████░░░   90.85% 
+IntelliJ                 4 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
+Sublime Text             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 💻 Operating System: 
-Linux                    58 hrs 49 mins      █████████████████████████   100.0%
+Linux                    55 hrs 15 mins      █████████████████████████   100.0%
 
 ```
 
