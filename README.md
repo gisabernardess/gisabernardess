@@ -48,13 +48,13 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <br/>
 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.4%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,377 Contributions in the Year 2020
+> 🏆 1,378 Contributions in the Year 2020
  > 
 > 📦 206.2 kB Used in Github's Storage 
  > 
@@ -91,18 +91,18 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Properties               3 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   41.42% 
-Java                     1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   24.11% 
-TypeScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
+TypeScript               2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.26% 
+Properties               2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03% 
+Java                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
+JSON                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.99%
 
 🔥 Editors: 
-IntelliJ                 5 hrs 38 mins       █████████████████░░░░░░░░   69.7% 
-VS Code                  2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   30.3%
+VS Code                  5 hrs 1 min         ██████████████░░░░░░░░░░░   56.26% 
+IntelliJ                 3 hrs 54 mins       ███████████░░░░░░░░░░░░░░   43.74%
 
 💻 Operating System: 
-Linux                    8 hrs 6 mins        █████████████████████████   100.0%
+Linux                    8 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -120,7 +120,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/gisabernardess/gisabernardess/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/gisabernardess/gisabernardess/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
