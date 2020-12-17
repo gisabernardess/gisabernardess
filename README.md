@@ -50,11 +50,11 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-957010%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,418 Contributions in the Year 2020
+> 🏆 1,419 Contributions in the Year 2020
  > 
 > 📦 206.6 kB Used in Github's Storage 
  > 
@@ -63,7 +63,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
 > 📜 23 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
-
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -91,18 +91,18 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 52 mins      █████████████████████░░░░   87.42% 
-Git Config               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.93% 
-CSS                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
-Java                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
-JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
+TypeScript               15 hrs 54 mins      ██████████████████████░░░   87.89% 
+Git Config               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+Java                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
+CSS                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
 
 🔥 Editors: 
-VS Code                  19 hrs 16 mins      ███████████████████████░░   94.29% 
-IntelliJ                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
+VS Code                  16 hrs 57 mins      ███████████████████████░░   93.66% 
+IntelliJ                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.34%
 
 💻 Operating System: 
-Linux                    20 hrs 26 mins      █████████████████████████   100.0%
+Linux                    18 hrs 6 mins       █████████████████████████   100.0%
 
 ```
 
