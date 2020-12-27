@@ -48,7 +48,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <br/>
 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-279163%20lines%20of%20code-blue)
 
@@ -91,14 +91,13 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 43 mins       ████████████████████████░   98.92% 
-Kotlin                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
+Bash                     3 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 44 mins       █████████████████████████   100.0%
+VS Code                  3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 44 mins       █████████████████████████   100.0%
+Linux                    3 mins              █████████████████████████   100.0%
 
 ```
 
