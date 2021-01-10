@@ -48,7 +48,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <br/>
 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-279163%20lines%20of%20code-blue)
 
