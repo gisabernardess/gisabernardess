@@ -54,7 +54,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
 
 **🐱 My Github Data** 
 
-> 🏆 16 Contributions in the Year 2021
+> 🏆 29 Contributions in the Year 2021
  > 
 > 📦 207.0 kB Used in Github's Storage 
  > 
