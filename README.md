@@ -50,17 +50,17 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-279163%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-279424%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 31 Contributions in the Year 2021
+> 🏆 34 Contributions in the Year 2021
  > 
-> 📦 207.0 kB Used in Github's Storage 
+> 📦 207.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -109,11 +109,11 @@ Linux                    22 hrs 47 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ████████░░░░░░░░░░░░░░░░░   34.38% 
-Java                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88% 
-TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88% 
-TeX                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+JavaScript               11 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
+Java                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+TeX                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
