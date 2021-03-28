@@ -50,13 +50,13 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-360322%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-360208%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 355 Contributions in the Year 2021
+> 🏆 364 Contributions in the Year 2021
  > 
-> 📦 211.2 kB Used in Github's Storage 
+> 📦 211.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,11 +91,11 @@ Sunday       19 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 23 mins      ████████████████████░░░░░   82.44% 
+TypeScript               12 hrs 23 mins      ████████████████████░░░░░   82.47% 
 Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.64% 
 SCSS                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.19% 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.18% 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
 
 🔥 Editors: 
 VS Code                  15 hrs 2 mins       █████████████████████████   100.0%
