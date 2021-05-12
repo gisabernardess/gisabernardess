@@ -48,7 +48,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <br/>
 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-353507%20lines%20of%20code-blue)
 
@@ -56,7 +56,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
 
 > 🏆 543 Contributions in the Year 2021
  > 
-> 📦 232.9 kB Used in Github's Storage 
+> 📦 233.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,17 +91,17 @@ Sunday       19 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   42.88% 
-PHP                      4 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   34.35% 
-JavaScript               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
-JSX                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.66% 
-Elixir                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79%
+TypeScript               7 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.63% 
+PHP                      4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   30.62% 
+JavaScript               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.75% 
+JSX                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
+Elixir                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
 
 🔥 Editors: 
-VS Code                  12 hrs 4 mins       █████████████████████████   100.0%
+VS Code                  15 hrs 36 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    12 hrs 4 mins       █████████████████████████   100.0%
+Linux                    15 hrs 36 mins      █████████████████████████   100.0%
 
 ```
 
