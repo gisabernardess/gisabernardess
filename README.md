@@ -10,7 +10,7 @@
 I am a developer passionate about frontend and I am always looking to learn and improve my skills through reading, self-knowledge and technical courses. I love how every day is a challenge and working with great people that help me grow as a developer.
 
 - 👩‍💻 currently working as software engineer at <a href="https://uplearn.co.uk/" rel="dofollow">Up Learn</a>
-- 💜 geek, gamer, anime & dorama lover
+- 💜 geek, gamer, anime & k-drama lover
 - 👩‍🎓 bachelor in Information Systems and taking a postgraduate course in Full Stack Web Development
 - 🎯 goal: be a full stack web developer focused in the frontend part
 
